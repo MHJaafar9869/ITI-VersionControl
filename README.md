@@ -11,7 +11,7 @@
 
 3. Create an annotated tag with tagname (v1.7).
 
-- **git tag -a v2.0 -m “version 2.0”**
+- **git tag -a v1.7 -m "Version1.7"**
 
 4. Tell me how to list tags.
 
